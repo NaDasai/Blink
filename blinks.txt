@@ -4,3 +4,5 @@ Wed Nov 16 18:37:54 2022
 {"symbol":"BTCUSDT","price":"16553.15000000"}
 2022-11-16 18:39:34.040522 UTC
 {"symbol":"BTCUSDT","price":"16547.28000000"}
+Fri Nov 18 13:46:15 2022
+{"symbol":"BTCUSDT","price":"16773.00000000"}
